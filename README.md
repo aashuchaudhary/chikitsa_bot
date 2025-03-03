@@ -179,7 +179,7 @@ We have used the MedQuad dataset from :
 | 5 | **Evaluation & Testing** | MYSELF |
 | 6 | **Frontend & Backend Development** | MYSELF |
 | 7 | **Deployment & Cloud Integration** | MYSELF |
-| 8 | **Documentation** | All team members |
+| 8 | **Documentation** | MYSELF |
 
 ---
 
@@ -190,20 +190,20 @@ We have used the MedQuad dataset from :
     - [MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs](#medconqa-medical-conversational-question-answering-system-based-on-knowledge-graphs)
     - [Evaluation of the Clinical Question Answering Presentation](#evaluation-of-the-clinical-question-answering-presentation)
   
-2. [Manish yadav](#Manish-Yadav)
+2. [Ashutosh Chaudhary](#Ashutosh-Chaudhary)
     - [Incorporating Medical Knowledge in BERT for Clinical Relation Extraction](#incorporating-medical-knowledge-in-bert-for-clinical-relation-extraction)
     - [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference, and Disease Name Recognition](#infusing-disease-knowledge-into-bert-for-health-question-answering-medical-inference-and-disease-name-recognition)
   
-3. [Abhishek Jha](#Abhishek-jha)
+3. [Ashutosh Chaudhary](#Ashutosh-Chaudhary)
     - [How You Ask Matters: The Effect of Paraphrastic Questions to BERT Performance on a Clinical SQuAD Dataset](#how-you-ask-matters-the-effect-of-paraphrastic-questions-to-bert-performance-on-a-clinical-squad-dataset)
     - [Answering Clinical Questions with Role Identification](#answering-clinical-questions-with-role-identification)
   
-4. [Saloni Rai](#Saloni-Rai)
+4. [Ashutosh Chaudhary](#Ashutosh-Chaudhary)
     - [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference, and Disease Name Recognition](#infusing-disease-knowledge-into-bert-for-health-question-answering-medical-inference-and-disease-name-recognition)
     - [MedConQA: Medical Conversational Question Answering System](#medconqa-medical-conversational-question-answering-system)
 
 
-5. [Shruti Singh](#Shruti-Singh)
+5. [Ashutosh Chaudhary](#Ashutosh-Chaudhary)
     - [Recognizing Question Entailment (RQE) and Natural Language Inference (NLI) methods](#recognizing-question-entailment-rqe-and-natural-language-inference-nli-methods)
     - [Fine-Tuning PEGASUS for Consumer Health Question Summarization](#fine-tuning-pegasus-for-consumer-health-question-summarization)
 
@@ -226,7 +226,7 @@ The passage-based approach, which returns ranked passages instead of sentences, 
 
 ---
 
-### Manish Yadav
+### Ashutosh Chaudhary
 
 #### Incorporating Medical Knowledge in BERT for Clinical Relation Extraction
 - **Link:** [https://aclanthology.org/2021.emnlp-main.435/](https://aclanthology.org/2021.emnlp-main.435/)
@@ -238,7 +238,7 @@ The passage-based approach, which returns ranked passages instead of sentences, 
 - **Summary:** The research paper titled "Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference, and Disease Name Recognition" explores enhancing pre-trained language models like BERT with disease-specific knowledge to improve health-related and biomedical tasks. The study integrates BERT with disease knowledge to enhance tasks such as consumer health question answering, medical language inference, and disease name recognition. By proposing a new disease knowledge infusion training procedure and evaluating it across various BERT models like BioBERT, SciBERT, ClinicalBERT, BlueBERT, and ALBERT, the researchers demonstrated significant improvements in model performance. For example, BioBERT's accuracy in consumer health question answering increased from 68.29% to 72.09%, with new state-of-the-art results achieved in two datasets. The study was presented at the 2020 Conference on Empirical Methods in Natural Language Processing and published by the Association for Computational Linguistics
 
 ---
-### Abhishek Jha
+### Ashutosh Chaudhary
 
 #### How You Ask Matters: The Effect of Paraphrastic Questions to BERT Performance on a Clinical SQuAD Dataset
 - **Link:** [https://aclanthology.org/2020.clinicalnlp-1.13.pdf](https://aclanthology.org/2020.clinicalnlp-1.13.pdf)
@@ -295,7 +295,7 @@ The EPoCare project is supported by grants from Bell University Laboratories at 
 
 ---
 
-### Saloni Rai
+### Ashutosh Chaudhary
 #### Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference, and Disease Name Recognition
 
 #### Overview
@@ -383,7 +383,7 @@ The research opens new avenues for applying conversational AI in healthcare, off
 
 ---
 
-### Shruti singh
+### Ashutosh Chaudhary
 #### Recognizing Question Entailment (RQE) and Natural Language Inference (NLI) methods
 - **Links:** 
   - [https://aclanthology.org/W19-5041.pdf](https://aclanthology.org/W19-5041.pdf)
